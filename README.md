@@ -15,9 +15,9 @@ Documentation de Livewire disponible [ICI](https://laravel-livewire.com/docs/2.x
 
 ## Installer Jetstream et Livewire
 
-    `composer require laravel/jetstream`
+    composer require laravel/jetstream
 
-    `php artisan jetstream:install livewire`
+    php artisan jetstream:install livewires
 
 - De plus, vous devez compiler les actifs, en conséquence, utilisez les deux commandes npm simultanément pour effectuer la tâche de compilation de construction.
 
