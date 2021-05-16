@@ -1,4 +1,4 @@
-#Laravel CRUD - Jetstream Livewire
+# Laravel CRUD - Jetstream Livewire
 
 Une application CRUD Laravel utilisant __Jetstream__ avec __Livewire__.
 
@@ -29,3 +29,4 @@ Documentation de Livewire disponible [ICI](https://laravel-livewire.com/docs/2.x
 
 
 
+![crud](https://user-images.githubusercontent.com/49252781/118413130-3b82bd80-b68d-11eb-9f30-cacba80962b5.png)
