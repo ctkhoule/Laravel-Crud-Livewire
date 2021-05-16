@@ -21,11 +21,11 @@ Documentation de Livewire disponible [ICI](https://laravel-livewire.com/docs/2.x
 
 - De plus, vous devez compiler les actifs, en conséquence, utilisez les deux commandes npm simultanément pour effectuer la tâche de compilation de construction.
 
-    `npm install && npm run dev`
+    npm install && npm run dev
 
  - Lançez la migration
 
-    `php artisan migrate`
+    php artisan migrate
 
 
 
